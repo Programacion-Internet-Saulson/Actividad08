@@ -1184,7 +1184,6 @@ function loop() {
     sea.moveWaves();
 
     renderer.render(scene, camera);
-    setTimeout()
     requestAnimationFrame(loop);
 }
 
